@@ -1,3 +1,3 @@
-# MasterThesis Aerospace Engineering
+# Master Thesis Aerospace Engineering
 
 TBD
