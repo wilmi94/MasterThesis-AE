@@ -1,3 +1,3 @@
 # Master Thesis Aerospace Engineering
 
-TBD
+Main repository for the master thesis in Aerospace Engineering at FH Wiener Neustadt.
