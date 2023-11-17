@@ -34,7 +34,7 @@ Master_Thesis_ENDER.pdf
 ## notebooks
 ### *sdo_binclass.ipynb*
 
-The notebook is part of the Data Exploration phase (section 4.3 in the thesis) and aims to apply a binary classifier on the used SDO/AIA image dataset.
+The notebook is addressed in section 4.3 in the thesis and aims to apply a binary classifier on the used SDO/AIA image dataset.
 
 **Objectives:**
 
