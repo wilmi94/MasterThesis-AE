@@ -3,14 +3,18 @@
 
 **Abstract**
 
-This master’s thesis examines the potential of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs) for predicting solar phenomena like Coronal Mass Ejections and Solar Flares in the context of Space Weather forecasting. The focus is on refining prediction accuracy by encompassing both spatial and temporal characteristics.
+This Master’s thesis examines the potential of Convolutional Neural Networks and Recurrent Neural
+Networks for predicting solar phenomena like Coronal Mass Ejections and Solar Flares in the context
+of Space Weather forecasting. The focus is on refining prediction accuracy by encompassing both
+spatial and temporal characteristics.
 The study addresses several objectives. Firstly, optimal satellites and instruments for data acquisition
-are identified, and data sufficiency for effective model training is evaluated.
-Subsequently, CNNs and RNNs are introduced to model spatial-temporal solar activity patterns. Advanced Data Science and Machine Learning
+are identified, and data sufficiency for effective model training is evaluated. Subsequently, RNNs are
+introduced to model temporal solar activity patterns. Advanced Data Science and Machine Learning
 techniques are employed following the CRISP-DM methodology.
-The research culminates in applying a binary classifier using a CNN and a prediction model, based on a ConvLSTM. Both models only use full-disk image data from
-the Solar Dynamics Observatory’s Atmospheric Imaging Assembly instrument and therefore are considered a purely black-box approach, since no physical measurements are considered. The model adeptly
-captures spatial and temporal dynamics, bolstering CME predictions' precision.
+The research culminates in applying ConvLSTM prediction models, using only full-disk image data
+from the Solar Dynamics Observatory’s Atmospheric Imaging Assembly instrument. The model
+captures spatial and temporal dynamics, thereby supporting the precision of CME predictions.
+
 
 The repository is structured the following way:
 ## data
